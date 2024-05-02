@@ -1,2 +1,2 @@
 # mgt4250spring2024
-This is a repository for MGT 4250.
+Author: Jimmy Tegler (jtegler@elon.edu)

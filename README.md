@@ -22,3 +22,7 @@ Author: Jimmy Tegler (jtegler@elon.edu)
 ![image](https://github.com/jtegler11/mgt4250spring2024/assets/167884630/d7faaf84-a214-41f7-b6d1-39b0f1caf1b0)
 
 ## Discussions and Summary
+
+```python
+import pandas as pd
+```

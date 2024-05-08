@@ -2,6 +2,7 @@
 Author: Jimmy Tegler (jtegler@elon.edu)
 ## Project Description
 https://sportsbettingstatistics.streamlit.app/
+
 This repository is my final project for MGT 4250 and is a dashboard of visualizations of various sports betting statistics created using streamlit.
 ### Questions of Interest
 - Q1: What is the legal status of sports betting of each state in the United States?

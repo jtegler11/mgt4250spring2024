@@ -1,6 +1,8 @@
 # mgt4250spring2024
 Author: Jimmy Tegler (jtegler@elon.edu)
 ## Project Description
+https://sportsbettingstatistics.streamlit.app/
+This repository is my final project for MGT 4250 and is a dashboard of visualizations of various sports betting statistics created using streamlit.
 ### Questions of Interest
 - Q1: What is the legal status of sports betting of each state in the United States?
 - Q2: How much revenue has each state generated in the past year from sports betting?
@@ -28,6 +30,9 @@ Schafer, Josh. “Sports Betting Boom: Gross Revenue Hit $7.5 Billion in 2022, S
 
 
 ## Data Description
+To access the data:
+First download the following four files: demographics.xlsx,numberofbettors.xlsx,revenue2.xlsx, and sports betting stats.xlsx.
+
 ## Interpreting Visualizations
 ![image](https://github.com/jtegler11/mgt4250spring2024/assets/167884630/d7faaf84-a214-41f7-b6d1-39b0f1caf1b0)
 

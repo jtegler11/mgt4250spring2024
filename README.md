@@ -67,7 +67,10 @@ The final file sports betting stats contains the following columns: State(string
 
 
 ## Interpreting Visualizations
-![image](https://github.com/jtegler11/mgt4250spring2024/assets/167884630/d7faaf84-a214-41f7-b6d1-39b0f1caf1b0)
+![Figure1-DataVis](https://github.com/jtegler11/mgt4250spring2024/assets/167884630/45f61816-0521-4c4c-aac4-77c9d15bc497)
+
+Figure 1 is a map of the United States color coordinated to where each state stands regarding its legality of sports betting. Since it is up to the state whether or not they want to allow their population to place a bet, it is a useful graphic for people to figure out if they are able to place bets in their state, if a bill has been introduced to potentially allow sports betting, or the individual is not allowed to place a bet in that state. As of that graphic, 38 states have legalized sports betting, however some major states such as Texas and California currently do not allow sports betting.
+
 
 ## Discussions and Summary
 

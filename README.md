@@ -8,9 +8,9 @@ Author: Jimmy Tegler (jtegler@elon.edu)
 
   ### Important Statement
   These questions are *especially* **important** because
-  1. Sports betting is a recent revelation in the United States, with New Jersey being the first state to legalize it in 2018, and it is up to the discretion of the state as to whether or not htey would legalize sports betting.
-  2. Reason 2
-  3. Reason 3
+  1. Sports betting is a recent revelation in the United States, with New Jersey being the first state to legalize it in 2018, and it is up to the discretion of the state as to whether or not they would legalize sports betting. Following the passing of the Unlawful Internet Gambling Enforcement Act in 2006, which forbid online gambling, the door opened for fantasy sports betting as it was classified as a skill-based game and not a game of chance. In 2018, the Supreme Court struck down PASPA, which was passed in 1992 and outlawed sports gambling unless the state already had laws allowing it, which Nevada did. This made states free to establish their own sports gambling laws, as the law was not consistent with the constitution. In 2018 the first states to legalize sports betting were Delaware, New Jersey, Rhode Island, Mississippi, West Virginia, New Mexico, Arkansas, and Pennsylvania allowed their citizens to place bets. Since 2018, that number has been steadily rising as states are seeing the lucrative opportunity to generate revenue in their state through sports betting. In the following years, other states have followed suit in legalizing sports betting, which is why it is important to track what states have legalized, and which have not. 
+  2. The online sports betting industry has boomed since its inception in 2018, and has garnered many customers from each state where it is legal. States collect taxes on gambling, so the more money people bet on sports, the more the state will collect. 
+  4. Reason 3
 
 [Elon University](http://www.elon.edu)
 

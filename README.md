@@ -71,6 +71,23 @@ The final file sports betting stats contains the following columns: State(string
 
 Figure 1 is a map of the United States color coordinated to where each state stands regarding its legality of sports betting. Since it is up to the state whether or not they want to allow their population to place a bet, it is a useful graphic for people to figure out if they are able to place bets in their state, if a bill has been introduced to potentially allow sports betting, or the individual is not allowed to place a bet in that state. As of that graphic, 38 states have legalized sports betting, however some major states such as Texas and California currently do not allow sports betting.
 
+![Figure2-DataVis](https://github.com/jtegler11/mgt4250spring2024/assets/167884630/cd8f5bab-4d2f-45f3-9904-d7ce7a262a89)
+
+
+Figure 2 shows how total handle and revenue for each state in 2023. Revenue in this case refers to how much money the sportsbooks made from each state, and handle refers to the total amount of money wagered on sports in that state. In this graphic, we get a breakdown, state-by-state, of how well they are performing since sports betting became legal. Then if a state is not performing as well, some sportsbooks may see that as an opportunity to increase marketing in that area to convince more people to sign up for their app and place bets. 
+
+![Figure3-DataVis](https://github.com/jtegler11/mgt4250spring2024/assets/167884630/30e95b16-c418-4f3e-a56c-a5106f09103c)
+Figure 3 takes population information from the most recent U.S. Census and plots populations broken down into specific age groups. The age groups are 18-24,25-34,35-44,45-54,55-64, and 65+. This gives the reader a general idea of the population of the United States and how it breaks down by age group. I used this figure in conjunction with figure 4 to help estimate the amount of bettors in the United States.
+
+![Figure4-DataVis](https://github.com/jtegler11/mgt4250spring2024/assets/167884630/6f2174c9-2c1e-430c-b4d0-5cb84ca9442f)
+Figure 4 is an estimation of how many people are placing bets per state as well as broken down by age group. This figure provides useful insights into how many people are placing bets. Typically the younger generation is more likely to place bets, as evident in the figure as well as my next visualization. Sports apps such as FanDuel and DraftKings and states can utilize this data to infer what states and age groups are targets to increase their market share and improve performance.
+
+![Figure5-DataVis](https://github.com/jtegler11/mgt4250spring2024/assets/167884630/59e724ee-e9fc-463e-b445-906887270aca)
+Figure 5 is a representaion of the percentage of sports bettors by age group. People in age groups 18-24, and 25-34 are most likely to place bets, because sports betting is more popular among younger generations. 
+
+
+
+
 
 ## Discussions and Summary
 

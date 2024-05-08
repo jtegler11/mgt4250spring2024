@@ -32,7 +32,26 @@ Schafer, Josh. “Sports Betting Boom: Gross Revenue Hit $7.5 Billion in 2022, S
 
 ## Data Description
 To access the data:
-First download the following four files: demographics.xlsx,numberofbettors.xlsx,revenue2.xlsx, and sports betting stats.xlsx.
+
+Navigate to the GitHub repository
+Click on each file to view the contents
+To download them, click "Download" or "Save As"
+Make sure that you have an application capable of reading them such as Microsoft Excel
+
+The first file, revenu2.xlsx columns: State(string), 2023 Total Handle(Billions)(float), 2023 Total Revenue(Millions)(float), Total Population(float), Age Groups(18-24,25-34, etc.), and Estimated # of Bettors Aged[Age Group].
+  This file provides financial information used to create graphics
+
+The next file demographics.xlsx contains the colunms: State(string), Total Population(float),  Age Groups(18-24,25-34, etc.), and Estimated # of Bettors Aged[Age Group], which are both float variables.
+  This file gives me population numbers according to the U.S. census as well as groups them into various age groups.
+
+The numberofbettors.xlsx file contains two columns: Age Groups(18-24,25-34, etc.) in a string and Percentage of Betting Participants, which are integers.
+  This file contains the percentage of people within a certain age group that are placing bets.
+
+The final file sports betting stats contains the following columns: State(string), Full Online, Retail Only, Bill Introduced, which are all string variables, as well as 2023 Total Revenue and 2023 Total Handle both of which are float variables:
+  In this file I compiled each state's legal status regarding sports betting, as well as revenue and handle by state for the year 2023.
+  
+
+
 
 ## Interpreting Visualizations
 ![image](https://github.com/jtegler11/mgt4250spring2024/assets/167884630/d7faaf84-a214-41f7-b6d1-39b0f1caf1b0)

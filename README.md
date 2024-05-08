@@ -75,7 +75,7 @@ https://www.fool.com/research/sports-betting-tax-revenue-by-state/#:~:text=Sport
 
 This article is an overall summary of sports betting in the United States. It states that since 2018 states have generated $4.33 billion in tax revenue from sports betting. New York has generated the most tax revenue from sports betting and it is currently legal in 38 states. It then details total tax revenue and gross sportsbook revenue of ecah state where it is legal, and includes a map of legalization of sports betting across the United States. The article then mentions that sports betting is here to stay, with the prevalence of advertisements and odds being discussed on sports media  every day, and it is hard to imagine it going anywhere with the amount of money being generated. $104 billion was wagered in 2023 according to the article, and sportsbook companies took home 9% of that, totaling $9.3 billion.  
 
-ChatGPT Answer to the Questions:
+**ChatGPT Answer to the Questions:**
 
 Question 1: What is the legal status of sports betting of each state in the United States?
 
@@ -91,12 +91,12 @@ Estimating the population of sports bettors in each state can be complex, as it 
 
 For detailed, up-to-date information on the legal status, revenue, and demographic analysis of sports bettors by state, consulting resources like the American Gaming Association or state-specific gaming boards would be beneficial.
 
-Discussion 
+**Discussion**
 
 My visualizations match what the article has detailed, we have similar maps, but differ in numbers because they've used total revenue since 2018, while I just looked at 2023. The maps are the most up to date visualizations of where sports betting is legal in the United States. However the trends are still similar, with the states who legalized first performing the best as well as bigger states such as New York perform extremely well. There is not concrete statistics on the total number of bettors per state, which is why I have estimated the number of bettors per state. 
 
 
-References 
+**References** 
 
 
 Bonesteel, Matt. “The History of Legal Sports Gambling in the U.S. - The Washington Post.” The Washington Post, 29 Aug. 2022, www.washingtonpost.com/sports/2022/08/29/history-of-sports-gambling/. 

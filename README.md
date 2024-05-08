@@ -15,10 +15,14 @@ Author: Jimmy Tegler (jtegler@elon.edu)
 
                                                                   References
 Bonesteel, Matt. “The History of Legal Sports Gambling in the U.S. - The Washington Post.” The Washington Post, 29 Aug. 2022, www.washingtonpost.com/sports/2022/08/29/history-of-sports-gambling/. 
+
 Bureau, US Census. “Measuring America’s People, Places, and Economy.” Census.Gov, 30 Apr. 2024, www.census.gov/en.html. 
 Clement, David, et al. “U.S Sports Betting Index.” Consumer Choice Center, 2021, consumerchoicecenter.org/wp-content/uploads/2022/07/US-Sports-Betting-Index.pdf. 
+
 Feeney, Don. “National Detail Report National Survey On ...” National Council on Problem Gambling, 2021, www.ncpgsurvey.org/wp-content/uploads/2021/03/NCPG_NGAGE-Natl_Detailed_Report-Public.pdf. 
+
 Lopez, German. “The Rise of Sports Betting.” The New York Times, The New York Times, 5 Apr. 2024, www.nytimes.com/2024/04/05/briefing/the-rise-of-sports-    betting.html#:~:text=The%20American%20Gaming%20Association%20says%20that%20sports%20betting,But%20advertising%20also%20convinces%20more%20people%20to%20gamble. 
+
 Schafer, Josh. “Sports Betting Boom: Gross Revenue Hit $7.5 Billion in 2022, Shattering Record.” Yahoo! Finance, Yahoo!, finance.yahoo.com/news/sports-betting-boom-gross-revenue-record-2022-163013125.html. Accessed 8 May 2024. 
 
 
